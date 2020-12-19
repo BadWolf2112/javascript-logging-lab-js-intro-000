@@ -1,3 +1,3 @@
 console.error("HALP!")
-console.log("Insufficient Funds")
-console.warn("Back to return to main menu")
+console.log("I would be a logger")
+console.warn("File Not Found")
